@@ -1,5 +1,5 @@
 # Relevant Courses
-> 학부 전공 상 들을 수 없었던 공학 계열 과목 수강 후 이수증을 모아둔 repository입니다.
+> 학부 전공 상 들을 수 없었던 공학 계열 과목을 추가 수강 후 이수증을 모아둔 repository입니다.
 <br/>
 
 ## Computer
